@@ -1,5 +1,5 @@
 # 💫 Seja bem vindo!
-Sou estudante de engenharia da computação 🎓<br><br>E desenvolvedor ✨<br><br>Atualmente estpu estudando:<br><br>-Java☕︎<br><br>-Javascript🌎<br><br>-Python🐍<br><br>📫 Email para contato: henricarvalho97@gmail.com
+Sou estudante de engenharia da computação 🎓<br><br>E desenvolvedor ✨<br><br>Atualmente estou estudando:<br><br>-Java☕︎<br><br>-Javascript🌎<br><br>-Python🐍<br><br>📫 Email para contato: henricarvalho97@gmail.com
 
 
 ## 🌐 Socials:
